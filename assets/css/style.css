@@ -102,11 +102,11 @@ footer, header, hgroup, menu, nav, section {
 
 :root {
     scroll-behavior: inherit;
-    --primary-color: #D59B2D;
+    --primary-color: 0, 135, 0;
     --primary-rgb: 0, 135, 0;
     --secondary-color: 46, 139, 87;
     --secondary-rgb: 46, 139, 87;
-    --bistre-color: #31231E;
+    --bistre-color:  50, 205, 50;
     --bistre-rgb: 50, 205, 50;
     --cadet-color: 50, 205, 50;
     --cadet-rgb: 0, 35, 0;
