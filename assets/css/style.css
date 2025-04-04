@@ -104,12 +104,12 @@ footer, header, hgroup, menu, nav, section {
     scroll-behavior: inherit;
     --primary-color: #D59B2D;
     --primary-rgb: 0, 135, 0;
-    --secondary-color: #477763;
-    --secondary-rgb: 71, 1191, 99;
+    --secondary-color: 46, 139, 87;
+    --secondary-rgb: 46, 139, 87;
     --bistre-color: #31231E;
-    --bistre-rgb: 49, 35, 30;
-    --cadet-color: #1c2339;
-    --cadet-rgb: 28, 35, 57;
+    --bistre-rgb: 50, 205, 50;
+    --cadet-color: 50, 205, 50;
+    --cadet-rgb: 0, 35, 0;
     --white: #FFF;
     --white-rgb: 255, 255, 255;
 }
